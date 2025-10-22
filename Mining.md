@@ -22,12 +22,7 @@ Please make sure to replace all example wallet addresses with **your own ITC add
 ## 💻 Example Command
 
 ```
-./cpuminer-avx \
-  -a interchained \
-  -o stratum+tcp://hash.interchained.org:4888 \
-  -u itc1q7j7edc5wh0qyllhlzhv2sqmxwssfzan9pc53rc.Ecrypt \
-  -p x \
-  -t 24
+./cpuminer-avx -a interchained -o stratum+tcp://hash.interchained.org:4888 -u itc1q7j7edc5wh0qyllhlzhv2sqmxwssfzan9pc53rc.Ecrypt -p x -t 24
 ```
 
 
