@@ -51,6 +51,11 @@ Use the RPlant fork of cpuminer-opt, which supports the Interchained algorithm.
 https://github.com/rplant8/cpuminer-opt-rplant/releases/
 
 
+Linux :
+```
+wget https://github.com/rplant8/cpuminer-opt-rplant/releases/download/5.0.46/cpuminer-opt-linux-5.0.46.tar.gz
+```
+
 ---
 
 ## 🧠 Notes
